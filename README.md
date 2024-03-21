@@ -1,1 +1,1 @@
-# kryptoanalyse-ohne-mathe
+# Kryptoanalyse (fast) ohne Mathematik
